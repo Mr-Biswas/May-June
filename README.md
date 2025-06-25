@@ -1,4 +1,5 @@
 # May-June
+
 Welcome to My Project Repository — May-June Edition
 
 This GitHub repository showcases a curated collection of industry-level personal projects that I successfully completed during May–June. Each project reflects my ability to solve real-world business problems, apply technical skills across tools like SQL, Python, Power BI, and Excel, and adapt quickly in a fast-paced learning environment.
